@@ -1,0 +1,150 @@
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/Kolokwium 1.csproj.AssemblyReference.cache
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/Kolokwium 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/Kolokwium 1.AssemblyInfoInputs.cache
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/Kolokwium 1.AssemblyInfo.cs
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/Kolokwium 1.csproj.CoreCompileInputs.cache
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/Kolokwium 1.MvcApplicationPartsAssemblyInfo.cs
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/Kolokwium 1.MvcApplicationPartsAssemblyInfo.cache
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/appsettings.Development.json
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/appsettings.json
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Kolokwium 1
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Kolokwium 1.deps.json
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Kolokwium 1.runtimeconfig.json
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Kolokwium 1.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Kolokwium 1.pdb
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Azure.Core.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Azure.Identity.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Humanizer.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/System.CodeDom.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/System.Memory.Data.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/System.Text.Json.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/de/Microsoft.Data.SqlClient.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/es/Microsoft.Data.SqlClient.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/fr/Microsoft.Data.SqlClient.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/it/Microsoft.Data.SqlClient.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/ja/Microsoft.Data.SqlClient.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/ko/Microsoft.Data.SqlClient.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/ru/Microsoft.Data.SqlClient.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/runtimes/unix/lib/net8.0/Microsoft.Data.SqlClient.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/runtimes/win/lib/net8.0/Microsoft.Data.SqlClient.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Runtime.Caching.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/staticwebassets.build.json
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/staticwebassets.development.json
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/staticwebassets/msbuild.Kolokwium 1.Microsoft.AspNetCore.StaticWebAssets.props
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/staticwebassets/msbuild.build.Kolokwium 1.props
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Kolokwium 1.props
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Kolokwium 1.props
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/staticwebassets.pack.json
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/scopedcss/bundle/Kolokwium 1.styles.css
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/Kolokwium 1.csproj.CopyComplete
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/Kolokwium 1.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/refint/Kolokwium 1.dll
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/Kolokwium 1.pdb
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/Kolokwium 1.genruntimeconfig.cache
+/home/lomyvi/RiderProjects/Kolokwium 1/Kolokwium 1/obj/Debug/net8.0/ref/Kolokwium 1.dll
